@@ -1,0 +1,47 @@
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.csproj.AssemblyReference.cache
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.MainForm.resources
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.csproj.GenerateResource.cache
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.AssemblyInfoInputs.cache
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.AssemblyInfo.cs
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.csproj.CoreCompileInputs.cache
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.sourcelink.json
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\bin\Debug\net9.0-windows\FormOptions.exe
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\bin\Debug\net9.0-windows\FormOptions.deps.json
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\bin\Debug\net9.0-windows\FormOptions.runtimeconfig.json
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\bin\Debug\net9.0-windows\FormOptions.dll
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\bin\Debug\net9.0-windows\FormOptions.pdb
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOpti.2ECE2C04.Up2Date
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.dll
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\refint\FormOptions.dll
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.pdb
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.genruntimeconfig.cache
+D:\Study\Kodedj\2025-2026\2026\3.Sharp\Sharp_11KN\Projects\Lesson 20.Program Test\Question\FormOptions\obj\Debug\net9.0-windows\ref\FormOptions.dll
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.dll
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\refint\FormOptions.dll
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.pdb
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\FormOptions.exe
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\FormOptions.deps.json
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\FormOptions.runtimeconfig.json
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\FormOptions.dll
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\FormOptions.pdb
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.csproj.AssemblyReference.cache
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.MainForm.resources
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.csproj.GenerateResource.cache
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.AssemblyInfoInputs.cache
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.AssemblyInfo.cs
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.csproj.CoreCompileInputs.cache
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOpti.2ECE2C04.Up2Date
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.genruntimeconfig.cache
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\ref\FormOptions.dll
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.RegisterForm.resources
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\obj\Debug\net9.0-windows\FormOptions.LogicForm.resources
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\MailKit.dll
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\MimeKit.dll
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\NETCore.MailKit.dll
+C:\Users\Dominika\Downloads\Question 1\Question\FormOptions\bin\Debug\net9.0-windows\BouncyCastle.Crypto.dll
