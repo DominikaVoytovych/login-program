@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace FormOptions
 {
-    public partial class MainForm : Form
+    public partial class TestForm : Form
     {
         // Налаштування теми
         bool isDarkMode = false;
@@ -41,7 +41,7 @@ namespace FormOptions
             }
         };
 
-        public MainForm()
+        public TestForm()
         {
             InitializeComponent();
 

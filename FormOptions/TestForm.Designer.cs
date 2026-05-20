@@ -1,6 +1,6 @@
 ﻿namespace FormOptions
 {
-    partial class MainForm
+    partial class TestForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -151,7 +151,7 @@
             Controls.Add(label1);
             Controls.Add(btnChangeStyles);
             MaximizeBox = false;
-            Name = "MainForm";
+            Name = "TestForm";
             Text = "Тест";
             Load += MainForm_Load;
             ResumeLayout(false);
