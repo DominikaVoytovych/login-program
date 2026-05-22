@@ -1,11 +1,12 @@
-﻿using Newtonsoft.Json;
+﻿using MailKit.Net.Smtp;
+using Microsoft.VisualBasic.ApplicationServices;
+using MimeKit;
+using Newtonsoft.Json;
 using System.Data;
 using System.Net;
 using System.Security.Cryptography;
 using System.Text;
 using System.Text.Json;
-using MailKit.Net.Smtp;
-using MimeKit;
 
 namespace FormOptions
 {
@@ -101,9 +102,16 @@ namespace FormOptions
 
                     if (!foundUser.Equals(default(User)))
                     {
-                        MessageBox.Show("Вхід успішний!", "Вітаємо", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                        new MainForm().ShowDialog(); //відкриваємо головну форму
-                        this.Close(); //закриваємо форму входу
+                        MessageBox.Show("Вхід успішний!", "Успіх", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        //this.Close();
+                        string fileAuthUser = "auth.bin";
+                        json = Newtonsoft.Json.JsonConvert.SerializeObject(foundUser); // інформація про користувача
+                        File.WriteAllText(fileAuthUser, json);
+                        //Це означає, що кристувач успішно зайшов
+                        DialogResult = DialogResult.OK;
+                        //MessageBox.Show("Вхід успішний!", "Вітаємо", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        //new MainForm().ShowDialog(); //відкриваємо головну форму
+                        //this.Close(); //закриваємо форму входу
                     }
                     else MessageBox.Show("Невірна пошта або пароль!"); //повідомляємо про помилку авторизації
                 }
@@ -266,9 +274,7 @@ namespace FormOptions
 
         private void btnToRee_Click(object sender, EventArgs e)
         {
-            this.Hide(); //ховаємо форму входу
-            new RegisterForm().ShowDialog(); //відкриваємо форму реєстрації
-            this.Close(); //закриваємо форму входу після закриття форми реєстрації
+            this.Close();
         }
 
         private void btnVissiblePassword_Click(object sender, EventArgs e)

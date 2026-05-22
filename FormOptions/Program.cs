@@ -12,7 +12,7 @@ namespace FormOptions
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             //Application.Run(new MainForm());
-            Application.Run(new RegisterForm());
+            Application.Run(new MainForm());
         }
     }
 }
